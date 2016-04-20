@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Address Book</string>
+    <string name="label_name">Name:</string>
+    <string name="label_number">Number:</string>
+    <string name="label_email">Email:</string>
+    <string name="bttn_previous">Previous</string>
+    <string name="bttn_next">Next</string>
+    <string name="bttn_delete">Delete entry</string>
+    <string name="bttn_add">Add new entry</string>
+    <string name="title_activity_add_entry">Add new entry</string>
+    <string name="label_name_activity_add_entry">Enter name:</string>
+    <string name="label_number_activity_add_entry">Enter number:</string>
+    <string name="label_email_activity_add_entry">Enter email address:</string>
+    <string name="bttn_add_activity_add_entry">Add Entry</string>
+    <string name="bttn_cancel_activity_add_entry">Cancel</string>
+
+</resources>
